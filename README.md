@@ -10,3 +10,6 @@ prérequis pour pouvoir faire fonctionner le projet
 les personnes avec lesquel j'ai collaborer sur ce projet
 - Arthur Chevalier
 - Matti Dragassi
+
+## Régles de standardisation
+il n'y avait aucune régle de standardisation le projet etait séparé en différente partie qui ne repasser pas l'une sur l'autre
